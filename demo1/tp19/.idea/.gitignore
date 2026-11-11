@@ -1,0 +1,10 @@
+# Default ignored files
+/../../tp19./.idea/shelf/
+/../../tp19./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../tp19./.idea/httpRequests/
+# Ignored default folder with query files
+/../../tp19./.idea/queries/
+# Datasource local storage ignored files
+/../../tp19./.idea/dataSources/
+/../../tp19./.idea/dataSources.local.xml
